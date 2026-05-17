@@ -32,7 +32,7 @@ pcm = ((q - q.min()) / step).astype(int)
 # Plot
 plt.figure(figsize=(10, 9))
 plt.suptitle(
-    "NAME : SRI JANI.G\nREG NO : 212224060259",
+    "NAME : SAILAKSHMI \nREG NO : 212224060227",
     fontsize=12,
     fontweight='bold'
 )
@@ -98,7 +98,7 @@ rec_filt = filtfilt(b, a, rec)
 # Plot
 plt.figure(figsize=(10, 8))
 plt.suptitle(
-    "NAME : SRI JANI.G\nREG NO : 212224060259",
+    "NAME : SAILAKSHMI \nREG NO : 212224060227",
     fontsize=12,
     fontweight='bold'
 )
@@ -126,12 +126,13 @@ plt.show()
 ## OUTPUT WAVEFORM:
 #### PULSE CODE MODULATION:
 
-<img width="947" height="856" alt="image" src="https://github.com/user-attachments/assets/58f1b3ee-4f60-4103-ad24-1598ed2588e1" />
+<img width="1222" height="1112" alt="image" src="https://github.com/user-attachments/assets/08a09a62-beee-46ea-8746-97629a411314" />
 
 
 #### DELTA MODULATION:
 
-<img width="940" height="731" alt="image" src="https://github.com/user-attachments/assets/65a7537e-1a54-4283-b1f9-beff08d9307d" />
+<img width="1268" height="1007" alt="image" src="https://github.com/user-attachments/assets/b3ea63bd-6b0f-4059-863d-3f37e1efd32d" />
+
 
 
 ## RESULT:
